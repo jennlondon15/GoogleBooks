@@ -23,6 +23,6 @@ Google Books Search app. Using helper/util functions and React lifecycle methods
 
 ### Live site
 
-* deployed: https://lil-google-books-search.herokuapp.com/
+* deployed: TBA
 
 
